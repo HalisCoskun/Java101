@@ -2,7 +2,7 @@ package Baslangic;
 
 import java.util.Scanner;
 
-public class palindromeKontrol {
+public class PalindromeKontrol {
 
     public static void main(String[] args) {
 
